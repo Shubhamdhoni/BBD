@@ -23,6 +23,7 @@ public class S01GoogleTitle {
 //	System.out.println("Reading the title");
 		title = driver.getTitle();
 		System.out.println(title);
+		System.out.println("-------");
 	}
 
 	@Then("Title should be Google")

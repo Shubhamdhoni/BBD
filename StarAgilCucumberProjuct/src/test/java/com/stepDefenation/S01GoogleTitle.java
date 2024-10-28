@@ -35,7 +35,4 @@ public class S01GoogleTitle {
 			System.out.println("Title Not-Maching");
 		driver.close();
 	}
-	
-
-
 }
